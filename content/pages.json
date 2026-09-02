@@ -159,5 +159,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-09-02T14:04:27.277Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-12",
+    "path": "/contact",
+    "type": "page",
+    "title": "Contact",
+    "seoTitle": "Contact & Book a Demo — Nifty AI",
+    "seoDescription": "Get in touch with Nifty AI. Tell us about your website project or book a white-label demo — we reply within one business day.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-09-02T21:37:10.715Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-02T21:37:10.715Z",
+    "createdBy": "derek"
   }
 ]
