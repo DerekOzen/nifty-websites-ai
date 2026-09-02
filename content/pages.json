@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Nifty AI — The AI Website Builder for Small Business",
+    "seoDescription": "AI builds fast, secure, lead-ready business websites in minutes — hosted on Cloudflare’s edge, with forms, SEO and lead capture built in. Join the waitlist.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-09-02T13:59:42.125Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-02T13:59:42.125Z",
+    "createdBy": "derek"
+  }
+]
