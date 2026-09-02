@@ -10,10 +10,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-09-02T12:20:30.954Z",
+    "updatedAt": "2026-09-02T12:43:39.694Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-02T12:20:16.524Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "noindex": true
   },
   {
     "id": "pg-3",
