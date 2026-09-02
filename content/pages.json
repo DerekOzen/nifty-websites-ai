@@ -1,22 +1,5 @@
 [
   {
-    "id": "pg-1",
-    "path": "/",
-    "type": "page",
-    "title": "Home",
-    "seoTitle": "Nifty AI — The AI Website Builder for Small Business",
-    "seoDescription": "AI builds fast, secure, lead-ready business websites in minutes — hosted on Cloudflare’s edge, with forms, SEO and lead capture built in. Join the waitlist.",
-    "layout": "mockup",
-    "headerPartId": "header-1",
-    "footerPartId": "footer-1",
-    "status": "deleted",
-    "updatedAt": "2026-09-02T12:40:05.132Z",
-    "updatedBy": "derek",
-    "createdAt": "2026-09-02T12:19:17.101Z",
-    "createdBy": "derek",
-    "isHome": false
-  },
-  {
     "id": "pg-2",
     "path": "/thank-you",
     "type": "page",
