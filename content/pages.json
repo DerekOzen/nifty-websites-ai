@@ -145,7 +145,7 @@
   },
   {
     "id": "pg-11",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Nifty AI — The AI Website Builder for Small Business",
@@ -153,10 +153,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-09-02T12:40:44.837Z",
+    "status": "published",
+    "updatedAt": "2026-09-02T12:40:56.921Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-02T12:40:44.837Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
