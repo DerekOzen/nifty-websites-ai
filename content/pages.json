@@ -176,5 +176,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-02T21:37:10.715Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-13",
+    "path": "/clients",
+    "type": "page",
+    "title": "Our Clients & Work — Nifty AI",
+    "seoTitle": "Our Clients & Work — Nifty AI",
+    "seoDescription": "See real businesses running fast, lead-generating websites built and hosted on Nifty AI — painters, clinics, cafés, roofers and more.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-03T01:34:35.203Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-03T01:34:35.203Z",
+    "createdBy": "vipin"
   }
 ]
