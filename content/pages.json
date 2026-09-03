@@ -193,5 +193,21 @@
     "createdAt": "2026-09-03T01:34:35.203Z",
     "createdBy": "vipin",
     "isHome": false
+  },
+  {
+    "id": "pg-14",
+    "path": "/clients",
+    "type": "page",
+    "title": "Our Clients & Work — Nifty AI",
+    "seoTitle": "Our Clients & Work | Nifty AI",
+    "seoDescription": "See real Australian businesses running fast, lead-generating websites built and hosted on Nifty AI, from painters and landscapers to building contractors.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-03T02:23:43.444Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-03T02:23:43.444Z",
+    "createdBy": "vipin"
   }
 ]
