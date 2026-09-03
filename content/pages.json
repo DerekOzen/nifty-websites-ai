@@ -187,10 +187,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
-    "updatedAt": "2026-09-03T02:07:49.235Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-03T02:22:58.135Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-03T01:34:35.203Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   }
 ]
