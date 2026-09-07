@@ -11,7 +11,7 @@
     "shape": "round",
     "icon": "chevron",
     "bg": "#ffc800",
-    "fg": "#ffffff",
+    "fg": "#000000",
     "size": 48
   }
 }
