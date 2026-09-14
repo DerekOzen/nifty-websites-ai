@@ -1,0 +1,20 @@
+# Nifty Websites Ai
+
+> AI builds fast, secure, lead-ready business websites in minutes — hosted on Cloudflare’s edge, with forms, SEO and lead capture built in. Join the waitlist.
+
+## Main
+
+- [Home](https://niftywebsites.ai/): AI builds fast, secure, lead-ready business websites in minutes — hosted on Cloudflare’s edge, with forms, SEO and lead capture built in. Join the waitlist.
+
+## Pages
+
+- [About — Nifty AI by Nifty Marketing Australia](https://niftywebsites.ai/about): Nifty AI is the AI website builder from Nifty Marketing Australia — fast, secure, lead-ready websites for small business, built by AI and perfected by you.
+- [For Agencies — White-Label Website Builder | Nifty AI](https://niftywebsites.ai/agencies): White-label the whole Nifty dashboard, manage many client sites from one login, and keep the margin. Your brand, our tech — recurring revenue for agencies.
+- [Blog — Nifty AI](https://niftywebsites.ai/blog): Guides on website speed, SEO, AI website building and lead generation for small business — from the Nifty AI team.
+- [FAQ — Nifty AI Website Builder](https://niftywebsites.ai/faq): Answers about Nifty AI: coding, hosting, your own domain, leads, SEO, WordPress vs Nifty, white-label for agencies, and pricing.
+- [Features — Nifty AI Website Builder](https://niftywebsites.ai/features): Everything a business website needs, built into Nifty AI: AI builder, live editor, Cloudflare hosting, SSL, spam-protected forms, leads inbox and SEO. No plugins.
+- [Pricing & Early Access — Nifty AI](https://niftywebsites.ai/pricing): Nifty AI is one simple all-inclusive subscription — hosting, SSL, SEO, spam protection and lead email included. Pricing announced at launch; join the waitlist.
+- [How It Works & Technology — Nifty AI](https://niftywebsites.ai/technology): How Nifty AI works: build in the dashboard, publish as static pages, serve from Cloudflare’s global edge. Free SSL, DDoS protection, Turnstile and SMTP2GO — done for you.
+- [Thank You — Nifty AI](https://niftywebsites.ai/thank-you): Thanks for your enquiry. The Nifty AI team will be in touch within one business day.
+- [Contact](https://niftywebsites.ai/contact): Get in touch with Nifty AI. Tell us about your website project or book a white-label demo — we reply within one business day.
+- [Our Clients & Work — Nifty AI](https://niftywebsites.ai/clients): See real Australian businesses running fast, lead-generating websites built and hosted on Nifty AI, from painters and landscapers to building contractors.
