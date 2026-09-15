@@ -1,0 +1,51 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mu2brbdn-l575",
+      "at": "2026-09-15T07:02:42.779Z",
+      "count": 10,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-B08A2BB9"
+        },
+        {
+          "path": "/features",
+          "newRecordId": "SCHEMA-D3BC3880"
+        },
+        {
+          "path": "/pricing",
+          "newRecordId": "SCHEMA-B987DD70"
+        },
+        {
+          "path": "/about",
+          "newRecordId": "SCHEMA-1B66BAC4"
+        },
+        {
+          "path": "/contact",
+          "newRecordId": "SCHEMA-077033D1"
+        },
+        {
+          "path": "/faq",
+          "newRecordId": "SCHEMA-B30BE315"
+        },
+        {
+          "path": "/agencies",
+          "newRecordId": "SCHEMA-F5ECBF7B"
+        },
+        {
+          "path": "/technology",
+          "newRecordId": "SCHEMA-66CFD7B7"
+        },
+        {
+          "path": "/clients",
+          "newRecordId": "SCHEMA-00CA79E5"
+        },
+        {
+          "path": "/blog",
+          "newRecordId": "SCHEMA-6A879B2D"
+        }
+      ]
+    }
+  ]
+}
