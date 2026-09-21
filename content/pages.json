@@ -158,8 +158,9 @@
     "status": "published",
     "createdAt": "2026-09-02T14:01:07.244Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-02T14:04:27.277Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-21T01:32:17.252Z",
+    "updatedBy": "joshua",
+    "noindex": true
   },
   {
     "id": "pg-12",
