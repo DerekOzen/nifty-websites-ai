@@ -100,8 +100,10 @@
     "status": "published",
     "createdAt": "2026-09-02T14:01:07.244Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-02T14:03:18.600Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-25T04:58:06.273Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/featured-faq-nifty-ai-website-builder-hphqx.jpg",
+    "featuredImageAlt": "Questions, answered"
   },
   {
     "id": "pg-8",
