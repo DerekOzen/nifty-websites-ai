@@ -154,8 +154,10 @@
     "status": "published",
     "createdAt": "2026-09-02T14:01:07.244Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-02T14:04:17.458Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-30T22:48:54.415Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/featured-how-it-works-technology-nifty-ai-p5sjp.jpg",
+    "featuredImageAlt": "Enterprise-grade infrastructure, done for you"
   },
   {
     "id": "pg-11",
